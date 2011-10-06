@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/internal
+END
+stdlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/internal/stdlib.c
+END
+stdio.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/internal/stdio.c
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/internal/list.c
+END

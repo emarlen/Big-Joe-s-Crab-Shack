@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog
+END
+exception.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/exception.c
+END
+exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/exception.h
+END
+Make.vars
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/Make.vars
+END
+tss.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/tss.c
+END
+syscall.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/syscall.c
+END
+pagedir.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/pagedir.c
+END
+tss.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/tss.h
+END
+process.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/process.c
+END
+gdt.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/gdt.c
+END
+syscall.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/syscall.h
+END
+pagedir.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/pagedir.h
+END
+process.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/process.h
+END
+gdt.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/gdt.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/.gitignore
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/userprog/Makefile
+END

@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices
+END
+input.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/input.c
+END
+block.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/block.h
+END
+speaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/speaker.h
+END
+kbd.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/kbd.c
+END
+pit.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/pit.h
+END
+ide.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/ide.c
+END
+input.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/input.h
+END
+kbd.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/kbd.h
+END
+ide.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/ide.h
+END
+partition.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/partition.c
+END
+intq.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/intq.c
+END
+shutdown.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/shutdown.c
+END
+timer.c.save
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/timer.c.save
+END
+vga.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/vga.c
+END
+partition.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/partition.h
+END
+serial.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/serial.c
+END
+intq.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/intq.h
+END
+shutdown.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/shutdown.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/timer.c
+END
+vga.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/vga.h
+END
+serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/serial.h
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/timer.h
+END
+rtc.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/rtc.c
+END
+block.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/block.c
+END
+speaker.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/speaker.c
+END
+pit.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/pit.c
+END
+rtc.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/devices/rtc.h
+END

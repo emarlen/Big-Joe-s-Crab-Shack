@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/examples/lib/user
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/examples/lib/user/.gitignore
+END
+.dummy
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/examples/lib/user/.dummy
+END

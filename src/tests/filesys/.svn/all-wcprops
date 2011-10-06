@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/filesys
+END
+Grading.with-vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/filesys/Grading.with-vm
+END
+Grading.no-vm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/filesys/Grading.no-vm
+END
+seq-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/filesys/seq-test.c
+END
+create.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/filesys/create.inc
+END
+seq-test.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/tests/filesys/seq-test.h
+END

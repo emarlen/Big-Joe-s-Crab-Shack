@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys
+END
+inode.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/inode.c
+END
+free-map.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/free-map.h
+END
+off_t.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/off_t.h
+END
+inode.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/inode.h
+END
+directory.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/directory.c
+END
+fsutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/fsutil.c
+END
+Make.vars
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/Make.vars
+END
+directory.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/directory.h
+END
+fsutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/fsutil.h
+END
+filesys.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/filesys.c
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/file.c
+END
+filesys.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/filesys.h
+END
+file.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/file.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/.gitignore
+END
+free-map.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/free-map.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/filesys/Makefile
+END

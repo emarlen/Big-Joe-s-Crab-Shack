@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel
+END
+list.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/list.h
+END
+bitmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/bitmap.h
+END
+console.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/console.c
+END
+hash.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/hash.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/debug.c
+END
+console.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/console.h
+END
+stdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/stdio.h
+END
+hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/hash.h
+END
+list.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/list.c
+END
+bitmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/lib/kernel/bitmap.c
+END

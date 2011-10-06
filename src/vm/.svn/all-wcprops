@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/vm
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/vm/.gitignore
+END
+Make.vars
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/vm/Make.vars
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/why_do_you_need_a_repo_so_1_guy_can_do_all_the_work/!svn/ver/1/src/vm/Makefile
+END
